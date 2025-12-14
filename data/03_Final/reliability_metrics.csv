@@ -1,0 +1,5 @@
+Description,Mean_Committed_kW,Mean_Actual_kW,RRMSE,Prob_Shortfall_Strict,Prob_Shortfall_Tol_5%,Expected_Shortfall_kW
+Total_Resource_Global_P90,1612.1496,1548.6257,0.0482,0.8993,0.4783,63.9426
+Total_Resource_Seasonal_P90,1563.5289,1548.6257,0.0144,0.8979,0.0,15.2236
+No_ESS_Resource_Global_P90,362.1496,298.6257,0.2148,0.8993,0.7161,63.9426
+No_ESS_Resource_Seasonal_P90,313.5289,298.6257,0.0719,0.8979,0.2881,15.2236
